@@ -8,7 +8,7 @@ Time spent: **2** hours spent in total
 
 ## Summary
 
-**MooTube* is UI mockup for a Cow-themed Youtube!
+**MooTube** is UI mockup for a Cow-themed Youtube!
 
 If I had to describe this project in three (3) emojis, they would be: **🐮🐄🤠**
 
